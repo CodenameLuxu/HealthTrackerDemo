@@ -1,0 +1,24 @@
+{
+    "List": [
+        {
+            "foodName": "Burger",
+            "calories": 500
+        },
+        {
+            "foodName": "Sandwich",
+            "calories": 150
+        },
+        {
+            "foodName": "Pizza",
+            "calories": 600
+        },
+        {
+            "foodName": "Steak",
+            "calories": 500
+        },
+        {
+            "foodName": "Steamed Fish",
+            "calories": 210
+        }
+    ]
+}

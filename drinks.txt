@@ -1,0 +1,6 @@
+Milkshake, 500
+Juice, 50
+Water, 0
+Milk,50
+Beer,450
+Blood,230

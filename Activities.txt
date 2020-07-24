@@ -1,0 +1,12 @@
+Walking, 5
+Hiking, 10
+Jogging, 10
+Cycling, 15
+Situps, 15
+Running, 20
+Pushups, 20
+Hockey, 20
+Tennis, 20
+Swimming, 25
+Football, 30
+Basketball, 30

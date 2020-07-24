@@ -1,0 +1,24 @@
+{
+    "List": [
+        {
+            "foodName": "Milkshake",
+            "calories": 500
+        },
+        {
+            "foodName": "Juice",
+            "calories": 50
+        },
+        {
+            "foodName": "Water",
+            "calories": 0
+        },
+        {
+            "foodName": "Milk",
+            "calories": 50
+        },
+        {
+            "foodName": "Beer",
+            "calories": 450    
+        }
+    ]
+}

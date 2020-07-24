@@ -1,0 +1,6 @@
+Burger, 500
+Sandwich, 150
+Pizza, 600
+Ice-cream,100
+Dumpling,80
+Steak,400

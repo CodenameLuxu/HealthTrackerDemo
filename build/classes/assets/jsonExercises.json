@@ -1,0 +1,60 @@
+{
+    "List": [
+        {
+            "activityName": "Walking",
+            "caloriesPerMinute": 5
+        },
+        {
+            "activityName": "Hiking",
+            "caloriesPerMinute": 10
+        },
+        {
+            "activityName": "Jogging",
+            "caloriesPerMinute": 10
+        },
+        {
+            "activityName": "Cycling",
+            "caloriesPerMinute": 15
+        },
+        {
+            "activityName": "Situps",
+            "caloriesPerMinute": 15
+        },
+        {
+            "activityName": "Running",
+            "caloriesPerMinute": 20
+        },
+        {
+            "activityName": "Pushups",
+            "caloriesPerMinute": 20
+        },
+        {
+            "activityName": "Hockey",
+            "caloriesPerMinute": 20
+        },
+        {
+            "activityName": "Tennis",
+            "caloriesPerMinute": 20
+        },
+        {
+            "activityName": "Swimming",
+            "caloriesPerMinute": 25
+        },
+        {
+            "activityName": "Football",
+            "caloriesPerMinute": 30
+        },
+        {
+            "activityName": "Basketball",
+            "caloriesPerMinute": 30
+        },
+        {
+            "activityName": "Sleep",
+            "caloriesPerMinute": 1
+        },
+        {
+            "activityName": "Yoga",
+            "caloriesPerMinute": 50
+        }
+    ]
+}
